@@ -12,6 +12,34 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+🔍 Key Features
+📊 Data cleaning and preprocessing using Python
+🧠 Exploratory Data Analysis (EDA) to find trends and patterns
+🗄️ SQL queries for structured data insights
+📈 Interactive dashboard built with Power BI
+💡 Business insights based on customer behavior
+🧰 Tech Stack
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+SQL
+Power BI
+Jupyter Notebook
+📊 Analysis Highlights
+
+Some of the questions explored in this project:
+
+What are the most popular product categories?
+How does customer spending vary by demographics?
+Are there peak shopping times or patterns?
+Which customer segments generate the most revenue?
+📈 Dashboard
+
+The Power BI dashboard (.pbix file) provides:
+
+Sales trends overview
+Customer segmentation
+Category-wise performance
+Interactive filters for deeper insights
+
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
 
 
