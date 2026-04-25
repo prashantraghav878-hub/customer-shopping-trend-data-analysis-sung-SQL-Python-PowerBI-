@@ -21,8 +21,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## 🧰 Tech Stack
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 SQL
+
 Power BI
+
 Jupyter Notebook
 
 
@@ -31,8 +34,11 @@ Jupyter Notebook
 Some of the questions explored in this project:
 
 What are the most popular product categories?
+
 How does customer spending vary by demographics?
+
 Are there peak shopping times or patterns?
+
 Which customer segments generate the most revenue?
 
 ## 📈 Dashboard
@@ -40,8 +46,11 @@ Which customer segments generate the most revenue?
 The Power BI dashboard (.pbix file) provides:
 
 Sales trends overview
+
 Customer segmentation
+
 Category-wise performance
+
 Interactive filters for deeper insights
 
 ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
