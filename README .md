@@ -43,6 +43,8 @@ Which customer segments generate the most revenue?
 
 ## 📈 Dashboard
 
+![](https://github.com/prashantraghav878-hub/customer-shopping-trend-data-analysis-sung-SQL-Python-PowerBI-/blob/main/customer_behavior_dashboard.pbix)
+
 The Power BI dashboard (.pbix file) provides:
 
 Sales trends overview
